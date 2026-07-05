@@ -1,0 +1,24 @@
+# Excel temp / lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+*.xlk
+
+# Backup files
+*.bak
+
+# Data files (uncomment if you don't want to commit raw data)
+# data/*.csv
+# data/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
